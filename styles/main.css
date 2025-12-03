@@ -9,12 +9,12 @@ table {
   color: rgb(237, 228, 220);
   border: rgb(237, 228, 220) solid 5px;
   border-collapse: collapse;
-  border-radius: 10px;
 }
 th,
 td,
 tr {
   padding: 12px;
+  border-radius: 10px;
   background-color: rgb(146, 45, 45);
   font-size: larger;
   text-align: center;
@@ -45,5 +45,6 @@ footer {
   font-size: xx-small;
   text-shadow: rgb(48, 61, 49) 2px 2px;
 }
+
 
 
